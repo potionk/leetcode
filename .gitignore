@@ -24,7 +24,7 @@ hs_err_pid*
 
 # intellij files
 .idea/
-baekjoon.iml
+leetcode.iml
 out/*
 
 # MacOS files
